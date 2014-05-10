@@ -4,7 +4,7 @@
 //
 //  Created by huojigang on 14-5-10.
 //  Copyright (c) 2014年 msa. All rights reserved.
-//
+//  This is the view controller implementation file
 
 #import "ViewController.h"
 
